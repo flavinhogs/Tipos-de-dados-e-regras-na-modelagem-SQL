@@ -48,6 +48,7 @@ Esses bancos de dados são amplamente utilizados em aplicações de todos os tip
 
 
 A seguir, um exemplo visual interativo das distribuições dos tipos de dados.
+
 <img width="787" height="367" alt="image" src="https://github.com/user-attachments/assets/610bdfd7-16a0-4d91-9812-bb4209c0073e" />
 
 ### Restrições no SQL
