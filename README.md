@@ -1,4 +1,5 @@
-# Tipos-de-dados-e-regras-na-modelagem-SQL
+# Tipos-de-dados-e-regras-na-modelagem-SQL <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8f74a05d-4851-4930-99bb-b9dffbeb612a" />
+
 Neste artigo será explicado os tipos de dados e regras na modelagem SQL, com exemplos para facilitar o entendimento do leitor.
 Um banco de dados SQL (Structured Query Language) é um sistema utilizado para armazenar, organizar e gerenciar informações de forma estruturada. Ele é baseado em tabelas compostas por linhas (registros) e colunas (campos), permitindo que os dados sejam manipulados por meio de uma linguagem padronizada — o SQL.
 
