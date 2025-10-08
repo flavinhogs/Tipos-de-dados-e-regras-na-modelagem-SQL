@@ -60,6 +60,9 @@ Existem vários tipos de constraints no SQL, incluindo:
 
 Essas constraints são usadas para impor integridade nos dados do banco de dados, com exceção da "default", garantindo que apenas valores válidos sejam armazenados nas tabelas e mantendo a consistência dos dados.
 
+<img width="787" height="367" alt="image" src="https://github.com/user-attachments/assets/610bdfd7-16a0-4d91-9812-bb4209c0073e" />
+
+
 ### Sugestão de materiais para consulta e aprendizado:
 https://www.w3schools.com/sql/default.asp
 https://kb.looplex.com.br/pt-BR/technical/common-data-model/legal-data-objects-and-complex-entities
@@ -68,5 +71,8 @@ https://kb.looplex.com.br/pt-BR/technical/common-data-model/legal-data-objects-a
 ### Fontes de referência:
 https://www.dio.me/articles/restricoes-no-sql
 https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver15
+
+
+
 
 
