@@ -1,4 +1,4 @@
-# Tipos-de-dados-e-regras-na-modelagem-SQL <img width="40" height="40" alt="aa8k6rg0g-removebg-preview" src="https://github.com/user-attachments/assets/b06d7569-bcac-46c6-a26f-e8e6c76376fb" />
+# Tipos de dados e regras na modelagem SQL <img width="40" height="40" alt="aa8k6rg0g-removebg-preview" src="https://github.com/user-attachments/assets/b06d7569-bcac-46c6-a26f-e8e6c76376fb" />
 
 
 
