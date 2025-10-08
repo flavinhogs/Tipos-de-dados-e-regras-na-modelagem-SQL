@@ -44,6 +44,10 @@ Esses bancos de dados são amplamente utilizados em aplicações de todos os tip
 | `smalldatetime`| AAAA-MM-DD              | 1900/01/01 a 2079/06/06           | 1 minuto           | 4 bytes       | Datas com hora em intervalos menores, como logs de eventos |
 | `time`         | hh:mm:ss[.nnnnnnn]     | 00:00:00.0000000 a 23:59:59.9999999 | 100 nanossegundos | 3-5 bytes     | Somente horário, como horários de funcionamento ou agendamentos |
 
+
+A seguir, um exemplo visual interativo das distribuições dos tipos de dados.
+<img width="787" height="367" alt="image" src="https://github.com/user-attachments/assets/610bdfd7-16a0-4d91-9812-bb4209c0073e" />
+
 ### Restrições no SQL
 No SQL, uma constraint é uma regra aplicada a uma ou mais colunas de uma tabela para impor restrições aos dados que podem ser inseridos ou modificados.
 
@@ -60,16 +64,16 @@ Existem vários tipos de constraints no SQL, incluindo:
 
 Essas constraints são usadas para impor integridade nos dados do banco de dados, com exceção da "default", garantindo que apenas valores válidos sejam armazenados nas tabelas e mantendo a consistência dos dados.
 
-<img width="787" height="367" alt="image" src="https://github.com/user-attachments/assets/610bdfd7-16a0-4d91-9812-bb4209c0073e" />
-
 
 ### Sugestão de materiais para consulta e aprendizado:
 https://www.w3schools.com/sql/default.asp
+
 https://kb.looplex.com.br/pt-BR/technical/common-data-model/legal-data-objects-and-complex-entities
 
 
 ### Fontes de referência:
 https://www.dio.me/articles/restricoes-no-sql
+
 https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver15
 
 
